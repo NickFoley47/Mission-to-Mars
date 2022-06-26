@@ -1,4 +1,4 @@
-#Mission_to_Mars
+# Mission_to_Mars
 
 ## Project Overview
 Create a web app of consisting of Mars facts, pictures, and news. We compare Mars facts to Earth facts and show interesting comparisons about how our worlds are different. 
